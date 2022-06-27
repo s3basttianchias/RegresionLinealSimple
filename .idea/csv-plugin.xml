@@ -17,6 +17,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/data/contaminantes_catalogos/cat_parametros.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/data/contaminantes_catalogos/cat_unidades.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
